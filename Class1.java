@@ -15,7 +15,7 @@ public class Class1 {
         // place holder method (v3.0)
     }
     private void f4() {
-        // 4.0 work in progress
+        // 4.0 finished work.
     }
     
 }
