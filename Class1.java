@@ -12,7 +12,7 @@ public class Class1 {
         // place holder method (v2.0)
     }
     private void f3() {
-        // place holder method (v3.0)
+        // fixed during hotfix (v3.0)
     }
     
 }
